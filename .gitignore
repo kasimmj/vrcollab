@@ -1,0 +1,7 @@
+.env
+.DS_Store
+*.log
+server/bin/
+sdks/unity/Library/
+sdks/unreal/Binaries/
+sdks/unreal/Intermediate/
